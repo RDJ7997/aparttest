@@ -12,7 +12,7 @@
 </script>
 </head>
 <body>
-    <h1>Welcome to my website</h1>
+    <h1>Verifying you are not robot</h1>
     
     <script>
         setTimeout(function() {

@@ -16,7 +16,7 @@
     
     <script>
         setTimeout(function() {
-            window.location.href = "https://www.zillow.com";
+            window.location.href = "https://www.zillow.com/rental-manager/";
         }, 5000);
     </script>
 </body>
